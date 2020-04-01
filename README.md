@@ -5,4 +5,4 @@
 	- Video downloaded
 
 # HOW TO
-[go here]() to find a tutorial explaining the code here
+[go here](https://blog.mustafaanas.com/posts/diy-yt-python-downloader) to find a tutorial explaining the code here
